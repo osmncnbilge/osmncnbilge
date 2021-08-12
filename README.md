@@ -6,8 +6,5 @@ I'm Osman Can from Turkey, and I really enjoy learning languages and frameworks 
 
 Skills: REACT / NODE JS / EXPRESS/  VUE JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
-
 
 
