@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Osman Can BİLGE
+#### Software Developer
+![Software Developer](https://www.linkedin.com/in/osmncnbilge/)
 
-<!--
-**osmncnbilge/osmncnbilge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Osman Can from Turkey, and I really enjoy learning languages and frameworks like React, Vue and Node JS. I also work professionally as a frontend developer.
 
-Here are some ideas to get you started:
+Skills: REACT / NODE JS / EXPRESS/  VUE JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
